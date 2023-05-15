@@ -3,20 +3,17 @@ pragma solidity 0.8.18;
 
 contract MyContract {
 
-    int256 public myInt = 1;
-    uint public myUint = 1;
-    uint256 public myUint256 = 1;
-    uint8 public myUint8 = 1;
+   uint[] public unintArray = [12,10,20];
+   string[] public stringArray = ["apple", "banana", "carrot"];
+   string[] public value;
+   uint256[][] public array2D = [[1,2,3], [4,5,6]];
 
-    string public  myString = "Hello, World";
-    bytes32 public Mybytes32 = "hello world";
+   function addValue(string memory _value) public  {
+       value.push(_value);
+   }
 
-    address public MyAddress =0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
-
-
-    function getValue() public pure returns (uint)  {
-        uint value = 1;
-        return value;
-    }
-    
+   function valueCount() public view returns (uint) {
+       return value.length;
+   }
+     
 }

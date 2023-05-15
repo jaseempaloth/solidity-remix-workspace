@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyMapping.sol": "My"
+			"contracts/MyMapping.sol": "MyMapp"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MyMapping.sol": {
-			"keccak256": "0x6e083f452ec7d41cee49e3cc28e427dfc63e1f9b4c3182e82e172801da02f004",
+			"keccak256": "0x0bc41a88fb9ae0101f0b42e445fbc3864d088ffbe026414cb652a2c1720970ef",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d8d5e2dcbdcec04a839941d9687b594e110d9c09b99838ba4aa97481fc06fd4f",
-				"dweb:/ipfs/QmapQ8g5ZmEVxWUbfa4mccMbZKH6HNSAVWEwQuuEk6FAAh"
+				"bzz-raw://eb6f777b9f6fca6315bcd69075be24a6fcb3866cf3243963393c1fc801390cde",
+				"dweb:/ipfs/Qmf6e6jQyUUrxSqMboQYNS1xk6keBYrGAgQbqXUsnCYs9r"
 			]
 		}
 	},
