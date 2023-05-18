@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HotelRoom.sol": "Name"
+			"contracts/HotelRoom.sol": "HotelR"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/HotelRoom.sol": {
-			"keccak256": "0x8cda51ba25e1dbd12b0b19ab7cae335bd2e1ba2321a13975c07eebf52bb07ae7",
+			"keccak256": "0x55792b30042d24c15d1b53f2c0164c1e6b5b9fe273530d1f89d77e380f8c3b3d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://87386123b66bd7dc471d410c12f9dee50058de5cbe4f54f8101019a049cc8b70",
-				"dweb:/ipfs/QmPp28z3SuGKaEbaje6bk1oSE3wSpkiJhQLLerF52WDmtD"
+				"bzz-raw://fb0d6ec9ef434f3a2687d0e7adea948d83565ddd37fad7d247b69ae1d02dfdc7",
+				"dweb:/ipfs/QmRqFJ8qutLHguQi9uo5KZVdPmW1QXaBVFFsT7j1h5KRyL"
 			]
 		}
 	},

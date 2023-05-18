@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HotelRoom.sol": "Name"
+			"contracts/HotelRoom.sol": "htoe"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/HotelRoom.sol": {
-			"keccak256": "0x8cda51ba25e1dbd12b0b19ab7cae335bd2e1ba2321a13975c07eebf52bb07ae7",
+			"keccak256": "0xccd5a5d04c4e974ef949f10c0abbfcfd12230f68a67fc53ca9dec3ad6de6cd49",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://87386123b66bd7dc471d410c12f9dee50058de5cbe4f54f8101019a049cc8b70",
-				"dweb:/ipfs/QmPp28z3SuGKaEbaje6bk1oSE3wSpkiJhQLLerF52WDmtD"
+				"bzz-raw://1945d2def733bb44931b68717b9fef66c5070b2024e42bfa1666e0a6dd27997f",
+				"dweb:/ipfs/QmQsqZtsGbshiqvauZD6ntK4STz4PwJXbT82RSBgRr3DW9"
 			]
 		}
 	},
