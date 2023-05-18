@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ConditionalAndLoops.sol": "Name"
+			"contracts/ConditionalAndLoops.sol": "ConditionalAnd"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ConditionalAndLoops.sol": {
-			"keccak256": "0x8490c393e22543b5c3fd3c117e73a1a31768c5463496a172b81ecef37b9572c1",
+			"keccak256": "0xcaa1ec59807311090ac45daaaa14aecaaafcb0ed663ecd836803965d944a01a7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3044ca7e39ec8d4ae51b1f5dbade6a85a8e948662ed5e3e369250c1d62db4063",
-				"dweb:/ipfs/QmY5fQGgnVVW1zpt5ngapFnqDmFoNchvuqi9fWUsN6Nmaq"
+				"bzz-raw://7775225f7416855a7402478ebb92c04cc3e8bb69aea724ee18c73692def220e6",
+				"dweb:/ipfs/QmPogQY1PiY3viMd5dJiZGA8MS9EYYkojaFEJMH3JH9Q3R"
 			]
 		}
 	},
