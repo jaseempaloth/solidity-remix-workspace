@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/First.sol": "Name"
+			"contracts/First.sol": "F"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/First.sol": {
-			"keccak256": "0x8490c393e22543b5c3fd3c117e73a1a31768c5463496a172b81ecef37b9572c1",
+			"keccak256": "0x98913f77f6c3feeba0e2254eeb01943745ccf67919659c2af50b321ce968ca1e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3044ca7e39ec8d4ae51b1f5dbade6a85a8e948662ed5e3e369250c1d62db4063",
-				"dweb:/ipfs/QmY5fQGgnVVW1zpt5ngapFnqDmFoNchvuqi9fWUsN6Nmaq"
+				"bzz-raw://0b2ead744d12d4a3098bcfd4e27dfc3c7994d617f36c382932333aedbf650aa7",
+				"dweb:/ipfs/QmYurRJZs8Zs86ZC32PWmYe2h5spWrHr5b2Ng5wSowdHm4"
 			]
 		}
 	},

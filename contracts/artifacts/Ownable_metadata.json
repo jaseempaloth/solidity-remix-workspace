@@ -4,7 +4,13 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +24,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/First.sol": "Name"
+			"contracts/First.sol": "Ownable"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +39,11 @@
 	},
 	"sources": {
 		"contracts/First.sol": {
-			"keccak256": "0x8490c393e22543b5c3fd3c117e73a1a31768c5463496a172b81ecef37b9572c1",
+			"keccak256": "0x4f725a2f7611f718ac1c3f099c19fa266903ae9e75043306856f32000e19389b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3044ca7e39ec8d4ae51b1f5dbade6a85a8e948662ed5e3e369250c1d62db4063",
-				"dweb:/ipfs/QmY5fQGgnVVW1zpt5ngapFnqDmFoNchvuqi9fWUsN6Nmaq"
+				"bzz-raw://2fa169e350c917bfe8973d4fc363ac5789c9204a2dada0f8f04687a5552d0235",
+				"dweb:/ipfs/QmREyu9zuQza9HY82qWa4A49Sn43weWf1fCptkW6NfDr8g"
 			]
 		}
 	},
