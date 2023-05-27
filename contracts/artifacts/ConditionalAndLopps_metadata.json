@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.18+commit.87f61d96"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -103,7 +103,7 @@
 		"compilationTarget": {
 			"contracts/ConditionalAndLoops.sol": "ConditionalAndLopps"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -116,11 +116,11 @@
 	},
 	"sources": {
 		"contracts/ConditionalAndLoops.sol": {
-			"keccak256": "0xc4dd2a677b236cbf9d05d4833c5d979ee48058c7757f7a2551c036f3c0a5b06f",
+			"keccak256": "0x25da787716337c326f832d6b269bc8ea94fcac5d08d8c07bcb6bd91016dd094a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4478646c748ddf0dfd9e3c9e416c90e1a10d5ee67085e9948333d12779fe45e7",
-				"dweb:/ipfs/QmfPQufUDicPGNNnGeSU7iMW9XuYUBgnLVLLkEqJnMW8vW"
+				"bzz-raw://ceaca78a9ac49ebc9df14a93028699ac70fe68b19c50650565a7c8b4dc4b004d",
+				"dweb:/ipfs/QmU5Bgs2Eem1D8G7V9cJajgBac8MnRpeLFKSegiUTRouFh"
 			]
 		}
 	},

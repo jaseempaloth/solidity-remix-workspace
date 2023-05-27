@@ -9,11 +9,16 @@
 				"inputs": [
 					{
 						"internalType": "string",
-						"name": "_value",
+						"name": "_name",
 						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_favoriteNumber",
+						"type": "uint256"
 					}
 				],
-				"name": "addValue",
+				"name": "addPerson",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -21,55 +26,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "array2D",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "stringArray",
-				"outputs": [
-					{
 						"internalType": "string",
 						"name": "",
 						"type": "string"
 					}
 				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "unintArray",
+				"name": "nameToFavoriteNumber",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -88,11 +50,16 @@
 						"type": "uint256"
 					}
 				],
-				"name": "value",
+				"name": "people",
 				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "favoriteNumber",
+						"type": "uint256"
+					},
 					{
 						"internalType": "string",
-						"name": "",
+						"name": "name",
 						"type": "string"
 					}
 				],
@@ -101,7 +68,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "valueCount",
+				"name": "retrieve",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -110,6 +77,19 @@
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_favoriteNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "store",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -126,7 +106,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract.sol": "MyContract"
+			"contracts/SimpleStorage.sol": "SimpleStorage"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -140,12 +120,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/MyContract.sol": {
-			"keccak256": "0xc0695b2bb6d398f959dae4659151754bee03631d89d738da3b3250c29ac9c1a6",
+		"contracts/SimpleStorage.sol": {
+			"keccak256": "0xfef888851cb1beb6677b32a224842728b020635a96e9d83fb969cae7ace0014f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6bacd430b76959c9791e3afbf07274e48f7d87f3b1ec4ba72fc5c4fa282aa893",
-				"dweb:/ipfs/QmeEMHAYqcWA3kWKonRBhsjjuuKZ2H6669u51Eb4p8Njo4"
+				"bzz-raw://4470a03638bbe3e5ddee41b1e2e02a713d4d4764e249336b0e79ff2accf574ae",
+				"dweb:/ipfs/QmUH9rKfbBHDz1kJSDiiLxFrzKCLYiEFfc77o6ZeHG7jzD"
 			]
 		}
 	},

@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/StorageFactory.sol": "Name"
+			"contracts/StorageFactory.sol": "S"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/StorageFactory.sol": {
-			"keccak256": "0x6bbceb907482f711a2eaf94a6962fd89e642bfa2ff7d0854def446eb0b3ee342",
+			"keccak256": "0xbfb96e8eea4bce6bbe9693bb1f5ab15612fbe2bcc02aeccf565eeb59e81165e7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3385afd7da0f10f8e6be8c081de2b6dcc5b2a5243949811742d00c428218eec1",
-				"dweb:/ipfs/QmXkg6anby8FYXgGNei6uyVUQDqqZWEp6iLRxi2MPR5EMa"
+				"bzz-raw://9c81d7a214223627661b30291716e562c1949cb763635722c8e6bb8d3c88bb6a",
+				"dweb:/ipfs/QmSmVbMiEVDvkERCeQVRGvucQvLps61A4GWUt2zw4PFL1D"
 			]
 		}
 	},
