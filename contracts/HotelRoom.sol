@@ -25,7 +25,7 @@ contract HotelRomm {
         _;
     }
 
-    function book() public  payable onlyWhileVacant costs(2 ether) {
+    function book() public  payable onlyWhileVacant costs(1 gwei) {
         currentStatus = Statuses.Occupied;
         (bool sent, bytes memory data) = owner.call{value: msg.value}("");
         require(true);
