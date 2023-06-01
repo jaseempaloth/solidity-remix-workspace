@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TestArray.sol": "Name"
+			"contracts/TestArray.sol": "Test"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/TestArray.sol": {
-			"keccak256": "0x6bbceb907482f711a2eaf94a6962fd89e642bfa2ff7d0854def446eb0b3ee342",
+			"keccak256": "0x60791ca492eafb212b840bfa0e0a6c2bb04c4b89bd809cb259a5ac2d97d82d30",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3385afd7da0f10f8e6be8c081de2b6dcc5b2a5243949811742d00c428218eec1",
-				"dweb:/ipfs/QmXkg6anby8FYXgGNei6uyVUQDqqZWEp6iLRxi2MPR5EMa"
+				"bzz-raw://0655a413a3996acb5cd84007bbabee6c2b03a77618c4576398ff043dcbbe4e95",
+				"dweb:/ipfs/QmbBFoyJgZhppqd6toKub7b8eutAVcuRqQRpYq1kFm1rNn"
 			]
 		}
 	},

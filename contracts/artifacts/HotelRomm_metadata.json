@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.18+commit.87f61d96"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -78,7 +78,7 @@
 		"compilationTarget": {
 			"contracts/HotelRoom.sol": "HotelRomm"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -91,11 +91,11 @@
 	},
 	"sources": {
 		"contracts/HotelRoom.sol": {
-			"keccak256": "0x6ffda990a2bd3804d47c186cef9e31b1010cf2818cd16bbeb929c00e72cea954",
+			"keccak256": "0x7f2d789db35018e14b447c493f6d4d7b57f2a44a9426bb301fd46567571359a5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1a41182d41d1f2184b1e1e600291559b81b2b4380c086fe55bc32e5f597d93a7",
-				"dweb:/ipfs/QmW2iFzGFnF98d8qgAZnGsoy1s1rftG3xfMVCFqBtKR6qL"
+				"bzz-raw://1c66e77a6fa2b6ad1087f4a23b33807b4f76173c075704ed3558999d435a0693",
+				"dweb:/ipfs/QmPXqxhboEd4VKzzaZ3HTwvsyTGjR6sRCP7VDR1ebgE92A"
 			]
 		}
 	},

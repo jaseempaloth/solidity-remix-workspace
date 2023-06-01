@@ -4,7 +4,15 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testArray",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +26,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TestArray.sol": "Name"
+			"contracts/TestArray.sol": "TestArray"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +41,11 @@
 	},
 	"sources": {
 		"contracts/TestArray.sol": {
-			"keccak256": "0x6bbceb907482f711a2eaf94a6962fd89e642bfa2ff7d0854def446eb0b3ee342",
+			"keccak256": "0x7b83797395548be0fa8f4eef77404ec3fe8611b359dac4c73b34b29155b80e62",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3385afd7da0f10f8e6be8c081de2b6dcc5b2a5243949811742d00c428218eec1",
-				"dweb:/ipfs/QmXkg6anby8FYXgGNei6uyVUQDqqZWEp6iLRxi2MPR5EMa"
+				"bzz-raw://c3d88a8c87944b705b615fd93315ca0618bb6ff7e5aebfb34b6a6ebb61a6d2fd",
+				"dweb:/ipfs/QmVqg33Dem7pddvJrh2ap5gWYsDQtHWg3PF5iXx7qpy2eG"
 			]
 		}
 	},
